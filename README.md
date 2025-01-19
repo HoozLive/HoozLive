@@ -1,6 +1,6 @@
 # 🎩 Hooz
 
-<p>I'm a full-stack developer, digital artist, and musician. I'm trying my best to create different projects like websites, applications, any other peace of software and AI</p>
+<p>I'm a full-stack developer, digital artist, and musician. I'm trying my best to create different projects like websites, applications, games and AI</p>
 
 #
 
