@@ -1,7 +1,10 @@
-<h1>Hooz</h1>
+# 🎩 Hooz
+
 <p>I'm a full-stack developer, digital artist, and musician. I'm trying my best to create different projects like websites, applications, any other peace of software and AI</p>
 
-<h3 align="left">Languages and Tools:</h3>
+#
+
+### 💡 Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -16,8 +19,10 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
+#
 
-<div align="center">
+### 📊 Stats
+
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=hoozlive&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoozlive&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
